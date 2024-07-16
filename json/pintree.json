@@ -1,1 +1,744 @@
-11111
+[
+  {
+    "type": "folder",
+    "addDate": 1640257438414,
+    "title": "书签栏",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1640576013151,
+        "title": "learning",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1640576013151,
+            "title": "JVM参数",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1621857475000,
+                "title": "JVM实用参数（一）JVM类型以及编译器模式 | 并发编程网 – ifeve.com",
+                "icon": "https://logo.clearbit.com/ifeve.com",
+                "url": "http://ifeve.com/useful-jvm-flags-part-1-jvm-types-and-compiler-modes-2/"
+              },
+              {
+                "type": "link",
+                "addDate": 1621857491000,
+                "title": "JVM实用参数（二）参数分类和即时（JIT）编译器诊断 | 并发编程网 – ifeve.com",
+                "icon": "https://logo.clearbit.com/ifeve.com",
+                "url": "http://ifeve.com/useful-jvm-flags-part-2-flag/"
+              },
+              {
+                "type": "link",
+                "addDate": 1621857506000,
+                "title": "JVM实用参数（三）打印所有XX参数及值 | 并发编程网 – ifeve.com",
+                "icon": "https://logo.clearbit.com/ifeve.com",
+                "url": "http://ifeve.com/useful-jvm-flags-part-3-printing-all-xx-flags-and-their-values/"
+              },
+              {
+                "type": "link",
+                "addDate": 1621857542000,
+                "title": "JVM实用参数（四）内存调优 | 并发编程网 – ifeve.com",
+                "icon": "https://logo.clearbit.com/ifeve.com",
+                "url": "http://ifeve.com/useful-jvm-flags-part-4-heap-tuning/"
+              },
+              {
+                "type": "link",
+                "addDate": 1621857558000,
+                "title": "JVM实用参数（五）新生代垃圾回收 | 并发编程网 – ifeve.com",
+                "icon": "https://logo.clearbit.com/ifeve.com",
+                "url": "http://ifeve.com/useful-jvm-flags-part-5-young-generation-garbage-collection/"
+              },
+              {
+                "type": "link",
+                "addDate": 1621857579000,
+                "title": "JVM实用参数（六） 吞吐量收集器 | 并发编程网 – ifeve.com",
+                "icon": "https://logo.clearbit.com/ifeve.com",
+                "url": "http://ifeve.com/useful-jvm-flags-part-6-throughput-collector/"
+              },
+              {
+                "type": "link",
+                "addDate": 1621857592000,
+                "title": "JVM实用参数（七）CMS收集器 | 并发编程网 – ifeve.com",
+                "icon": "https://logo.clearbit.com/ifeve.com",
+                "url": "http://ifeve.com/useful-jvm-flags-part-7-cms-collector/"
+              },
+              {
+                "type": "link",
+                "addDate": 1621857641000,
+                "title": "JVM实用参数（八）GC日志 | 并发编程网 – ifeve.com",
+                "icon": "https://logo.clearbit.com/ifeve.com",
+                "url": "http://ifeve.com/useful-jvm-flags-part-8-gc-logging/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1640576013152,
+            "title": "架构思想DDD",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1621934491000,
+                "title": "阿里技术专家详解 DDD 系列 第一讲- Domain Primitive - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/340911587"
+              },
+              {
+                "type": "link",
+                "addDate": 1658993705811,
+                "title": "阿里技术专家详解DDD系列 第二讲 - 应用架构 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/343388831"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1652073475150,
+            "title": "Java",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1619769933000,
+                "title": "JavaGuide",
+                "icon": "https://logo.clearbit.com/snailclimb.gitee.io",
+                "url": "http://snailclimb.gitee.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1620626934000,
+                "title": "JAVA中神奇的双刃剑--Unsafe - throwable - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/throwable/p/9139947.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1620975166000,
+                "title": "Thread详解 - waterystone - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/waterystone/p/4920007.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1620975228000,
+                "title": "Java并发之AQS详解 - waterystone - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/waterystone/p/4920797.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1620877520000,
+                "title": "Java线程池实现原理及其在美团业务中的实践 - 美团技术团队",
+                "icon": "https://logo.clearbit.com/tech.meituan.com",
+                "url": "https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1620980931000,
+                "title": "Java中9种常见的CMS GC问题分析与解决 - 美团技术团队",
+                "icon": "https://logo.clearbit.com/tech.meituan.com",
+                "url": "https://tech.meituan.com/2020/11/12/java-9-cms-gc.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1620981195000,
+                "title": "设计模式在外卖营销业务中的实践 - 美团技术团队",
+                "icon": "https://logo.clearbit.com/tech.meituan.com",
+                "url": "https://tech.meituan.com/2020/03/19/design-pattern-practice-in-marketing.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1620981343000,
+                "title": "基本功 | Java即时编译器原理解析及实践 - 美团技术团队",
+                "icon": "https://logo.clearbit.com/tech.meituan.com",
+                "url": "https://tech.meituan.com/2020/10/22/java-jit-practice-in-meituan.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1650879474060,
+                "title": "Spring Boot Features",
+                "icon": "https://logo.clearbit.com/docs.spring.io",
+                "url": "https://docs.spring.io/spring-boot/docs/2.5.1/reference/html/features.html#features.spring-application"
+              },
+              {
+                "type": "link",
+                "addDate": 1651201846607,
+                "title": "Java Concurrency | Baeldung - Part 2",
+                "icon": "https://logo.clearbit.com/www.baeldung.com",
+                "url": "https://www.baeldung.com/category/java/java-concurrency/page/2/"
+              },
+              {
+                "type": "link",
+                "addDate": 1651201894660,
+                "title": "Spring Framework Documentation",
+                "icon": "https://logo.clearbit.com/docs.spring.io",
+                "url": "https://docs.spring.io/spring-framework/docs/current/reference/html/index.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1647422295233,
+                "title": "新一代垃圾回收器ZGC的探索与实践 - 美团技术团队",
+                "icon": "https://logo.clearbit.com/tech.meituan.com",
+                "url": "https://tech.meituan.com/2020/08/06/new-zgc-practice-in-meituan.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1675344687366,
+                "title": "搬运工聊Java：SoftReference, WeakReference, PhantomReference及其应用举例 - 掘金",
+                "icon": "https://logo.clearbit.com/juejin.cn",
+                "url": "https://juejin.cn/post/6868305490040848392"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1652073560332,
+            "title": "Linux",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1619688500000,
+                "title": "linux下文件查询命令（cat,more,less,head,tail） - myvic - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/myvic/p/6403540.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1641890415465,
+                "title": "Linux 查看端口占用情况 | 菜鸟教程",
+                "icon": "https://logo.clearbit.com/www.runoob.com",
+                "url": "https://www.runoob.com/w3cnote/linux-check-port-usage.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1641890863011,
+                "title": "Linux 防火墙命令 - 南鸽 - 博客园",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/south-pigeon/p/12996804.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1620354322000,
+                "title": "Linux：grep和管道符",
+                "icon": "https://logo.clearbit.com/www.cnblogs.com",
+                "url": "https://www.cnblogs.com/wwjj4811/p/13700120.html"
+              },
+              {
+                "type": "link",
+                "addDate": 1641970910524,
+                "title": "鳥哥私房菜 - 第十二章、學習 Shell Scripts",
+                "icon": "https://logo.clearbit.com/linux.vbird.org",
+                "url": "https://linux.vbird.org/linux_basic/centos7/0340bashshell-scripts.php#script_1st"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1652073664220,
+            "title": "Network",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1652072938072,
+                "title": "LVS介绍",
+                "icon": "https://logo.clearbit.com/superproxy.github.io",
+                "url": "http://superproxy.github.io/docs/lvs/index.html"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1608181740000,
+            "title": "gRPC 官方文档中文版_V1.0",
+            "icon": "https://logo.clearbit.com/doc.oschina.net",
+            "url": "http://doc.oschina.net/grpc?t=58008"
+          },
+          {
+            "type": "link",
+            "addDate": 1627439205000,
+            "title": "Apollo Docs",
+            "icon": "https://logo.clearbit.com/www.apolloconfig.com",
+            "url": "https://www.apolloconfig.com/#/zh/README"
+          },
+          {
+            "type": "link",
+            "addDate": 1628043435000,
+            "title": "Top K 面试题",
+            "icon": "https://logo.clearbit.com/osjobs.net",
+            "url": "https://osjobs.net/topk/"
+          },
+          {
+            "type": "link",
+            "addDate": 1644916245779,
+            "title": "log4j2配置文件",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/hafiz/p/6170702.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1645080054093,
+            "title": "Hive SQL 教程 - 盖若",
+            "icon": "https://logo.clearbit.com/www.gairuo.com",
+            "url": "https://www.gairuo.com/p/hive-sql-tutorial"
+          },
+          {
+            "type": "link",
+            "addDate": 1645785165806,
+            "title": "Elasticsearch学习",
+            "icon": "https://logo.clearbit.com/www.elastic.co",
+            "url": "https://www.elastic.co/guide/en/elasticsearch/reference/5.6/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1646033639079,
+            "title": "just learning · 语雀",
+            "icon": "https://logo.clearbit.com/www.yuque.com",
+            "url": "https://www.yuque.com/kangyuanlu/yecgbp"
+          },
+          {
+            "type": "link",
+            "addDate": 1622447400000,
+            "title": "linux常用系统性能诊断工具",
+            "icon": "https://logo.clearbit.com/wiki.cheyaoshicorp.com",
+            "url": "http://wiki.cheyaoshicorp.com/pages/viewpage.action?pageId=165531295"
+          },
+          {
+            "type": "link",
+            "addDate": 1646721823489,
+            "title": "关于作者 | 凤凰架构",
+            "icon": "https://logo.clearbit.com/icyfenix.cn",
+            "url": "https://icyfenix.cn/introduction/about-me.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1647586389778,
+            "title": "Kafka",
+            "icon": "https://logo.clearbit.com/xie.infoq.cn",
+            "url": "https://xie.infoq.cn/article/b7df5a007c3ad8966c7241047"
+          },
+          {
+            "type": "link",
+            "addDate": 1647591887775,
+            "title": "ZooKeeper",
+            "icon": "https://logo.clearbit.com/zookeeper.apache.org",
+            "url": "https://zookeeper.apache.org/doc/current/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1649916780248,
+            "title": "神器的git",
+            "icon": "https://logo.clearbit.com/dangitgit.com",
+            "url": "https://dangitgit.com/zh#undo-a-commit"
+          },
+          {
+            "type": "link",
+            "addDate": 1650345737782,
+            "title": "Java | gRPC",
+            "icon": "https://logo.clearbit.com/grpc.io",
+            "url": "https://grpc.io/docs/languages/java/"
+          },
+          {
+            "type": "folder",
+            "addDate": 1652341608669,
+            "title": "docker",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1652341577686,
+                "title": "docker 命令",
+                "icon": "https://logo.clearbit.com/www.macrozheng.com",
+                "url": "https://www.macrozheng.com/mall/reference/docker_command.html#docker%E7%AE%80%E4%BB%8B"
+              },
+              {
+                "type": "link",
+                "addDate": 1652341663991,
+                "title": "Docker Compose",
+                "icon": "https://logo.clearbit.com/www.macrozheng.com",
+                "url": "https://www.macrozheng.com/mall/reference/docker_compose.html#%E5%AE%89%E8%A3%85"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1652692915023,
+            "title": "uml",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1652692343839,
+                "title": "UML类图 - 知乎",
+                "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+                "url": "https://zhuanlan.zhihu.com/p/109655171"
+              },
+              {
+                "type": "link",
+                "addDate": 1652692927759,
+                "title": "类图的语法和功能",
+                "icon": "https://logo.clearbit.com/plantuml.com",
+                "url": "https://plantuml.com/zh/class-diagram"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1652695127965,
+            "title": "GoF 的 23 种设计模式",
+            "icon": "https://logo.clearbit.com/c.biancheng.net",
+            "url": "http://c.biancheng.net/view/1320.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1652856983472,
+            "title": "入门和安装",
+            "icon": "https://logo.clearbit.com/hutool.cn",
+            "url": "https://hutool.cn/docs/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1653623039810,
+            "title": "技术笔记 · 语雀",
+            "icon": "https://logo.clearbit.com/www.yuque.com",
+            "url": "https://www.yuque.com/fantasticmao/tech"
+          },
+          {
+            "type": "link",
+            "addDate": 1655199582985,
+            "title": "Seata",
+            "icon": "https://logo.clearbit.com/seata.io",
+            "url": "https://seata.io/zh-cn/docs/overview/what-is-seata.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1655278424914,
+            "title": "图文详解 23 种设计模式 - DockOne.io",
+            "icon": "https://logo.clearbit.com/dockone.io",
+            "url": "http://dockone.io/article/2434385"
+          },
+          {
+            "type": "link",
+            "addDate": 1655365540485,
+            "title": "Spring Framework 中文文档",
+            "icon": "https://logo.clearbit.com/www.docs4dev.com",
+            "url": "https://www.docs4dev.com/docs/zh/spring-framework/5.1.3.RELEASE/reference/core.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1657703024899,
+            "title": "📄 HTTP Documentation",
+            "icon": "https://logo.clearbit.com/httpwg.org",
+            "url": "https://httpwg.org/specs/"
+          },
+          {
+            "type": "link",
+            "addDate": 1659007864162,
+            "title": "Maven依赖中的Scope详解 思否",
+            "icon": "https://logo.clearbit.com/segmentfault.com",
+            "url": "https://segmentfault.com/a/1190000038594247"
+          },
+          {
+            "type": "link",
+            "addDate": 1659342477322,
+            "title": "Spring Data JPA",
+            "icon": "https://logo.clearbit.com/docs.spring.io",
+            "url": "https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.nullability"
+          },
+          {
+            "type": "link",
+            "addDate": 1659356999503,
+            "title": "Vavr User Guide",
+            "icon": "https://logo.clearbit.com/docs.vavr.io",
+            "url": "https://docs.vavr.io/#_introduction"
+          },
+          {
+            "type": "link",
+            "addDate": 1662363764327,
+            "title": "curl - How To Use",
+            "icon": "https://logo.clearbit.com/curl.se",
+            "url": "https://curl.se/docs/manpage.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1662364949378,
+            "title": "curl命令详解 - 爱E族",
+            "icon": "https://logo.clearbit.com/aiezu.com",
+            "url": "https://aiezu.com/article/linux_curl_command.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1662478309659,
+            "title": "JVM笔记",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/qq_42449963/article/details/113965228"
+          },
+          {
+            "type": "link",
+            "addDate": 1664520490387,
+            "title": "SpEL + AOP实现注解的动态赋值",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/edda/p/14025836.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1664521273001,
+            "title": "速入门分库分表中间件 Sharding-JDBC （必修课）（一）-开源基础软件社区-51CTO.COM",
+            "icon": "https://logo.clearbit.com/ost.51cto.com",
+            "url": "https://ost.51cto.com/posts/13440"
+          },
+          {
+            "type": "link",
+            "addDate": 1664521284422,
+            "title": "快速入门分库分表中间件 Sharding-JDBC （必修课）（二）-开源基础软件社区-51CTO.COM",
+            "icon": "https://logo.clearbit.com/ost.51cto.com",
+            "url": "https://ost.51cto.com/posts/13442"
+          },
+          {
+            "type": "link",
+            "addDate": 1666594462481,
+            "title": "基于docker 搭建Prometheus+Grafana - 肖祥 - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/xiao987334176/p/9930517.html#!comments"
+          },
+          {
+            "type": "link",
+            "addDate": 1666600404608,
+            "title": "Dashboards | Grafana Labs",
+            "icon": "https://logo.clearbit.com/grafana.com",
+            "url": "https://grafana.com/grafana/dashboards/"
+          },
+          {
+            "type": "link",
+            "addDate": 1666678917138,
+            "title": "nginx documentation",
+            "icon": "https://logo.clearbit.com/nginx.org",
+            "url": "http://nginx.org/en/docs/"
+          },
+          {
+            "type": "link",
+            "addDate": 1684727859897,
+            "title": "技术文章摘抄",
+            "icon": "https://logo.clearbit.com/learn.lianglianglee.com",
+            "url": "https://learn.lianglianglee.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1687197045834,
+            "title": "gRPC-Spring-Boot-Starter Documentation | grpc-spring-boot-starter",
+            "icon": "https://logo.clearbit.com/yidongnan.github.io",
+            "url": "https://yidongnan.github.io/grpc-spring-boot-starter/"
+          },
+          {
+            "type": "link",
+            "addDate": 1701347474365,
+            "title": "Maven – Available Plugins",
+            "icon": "https://logo.clearbit.com/maven.apache.org",
+            "url": "https://maven.apache.org/plugins/index.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1702118982297,
+            "title": "Netty学习之NIO基础 - Nyima's Blog",
+            "icon": "https://logo.clearbit.com/nyimac.gitee.io",
+            "url": "https://nyimac.gitee.io/2021/04/18/Netty%E5%AD%A6%E4%B9%A0%E4%B9%8BNIO%E5%9F%BA%E7%A1%80/"
+          },
+          {
+            "type": "link",
+            "addDate": 1702467424387,
+            "title": "酷壳 – CoolShell.cn",
+            "icon": "https://logo.clearbit.com/coolshell.cn",
+            "url": "https://coolshell.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1702538522010,
+            "title": "你可能不知道的Shell | 酷 壳 - CoolShell",
+            "icon": "https://logo.clearbit.com/coolshell.cn",
+            "url": "https://coolshell.cn/articles/8619.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1705251657132,
+            "title": "二进制跳动",
+            "icon": "https://logo.clearbit.com/offercome.cn",
+            "url": "https://offercome.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1706007466704,
+            "title": "#架构设计",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg2NzYyNjQzNg==&action=getalbum&album_id=1874615391855968264#wechat_redirect"
+          },
+          {
+            "type": "link",
+            "addDate": 1709022928210,
+            "title": "如何优雅地记录操作日志？ - 美团技术团队",
+            "icon": "https://logo.clearbit.com/tech.meituan.com",
+            "url": "https://tech.meituan.com/2021/09/16/operational-logbook.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1710828322362,
+            "title": "OAuth2.0简述",
+            "icon": "https://logo.clearbit.com/sa-token.cc",
+            "url": "https://sa-token.cc/doc.html#/oauth2/readme"
+          },
+          {
+            "type": "link",
+            "addDate": 1714288809696,
+            "title": "certbot https证书",
+            "icon": "https://logo.clearbit.com/eebond.github.io",
+            "url": "https://eebond.github.io/centos%E4%B8%8B%E4%BD%BF%E7%94%A8certbot%E7%94%B3%E8%AF%B7%E9%83%A8%E7%BD%B2let-s-encrpyt%E5%85%8D%E8%B4%B9ssl%E8%AF%81%E4%B9%A6ngingx%E6%9C%8D%E5%8A%A1%E5%99%A8/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718795987535,
+            "title": "跨域资源共享 CORS 详解 - 阮一峰的网络日志",
+            "icon": "https://logo.clearbit.com/www.ruanyifeng.com",
+            "url": "https://www.ruanyifeng.com/blog/2016/04/cors.html"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1640576013152,
+        "title": "tools",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1619752339000,
+            "title": "JSON在线解析及格式化验证 - JSON.cn",
+            "icon": "https://logo.clearbit.com/www.json.cn",
+            "url": "http://www.json.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1620353699000,
+            "title": "在线工具 - 你的工具箱",
+            "icon": "https://logo.clearbit.com/tool.lu",
+            "url": "https://tool.lu/"
+          },
+          {
+            "type": "link",
+            "addDate": 1622013128000,
+            "title": "java命名/p8z",
+            "icon": "https://logo.clearbit.com/p8z.fun",
+            "url": "http://p8z.fun/"
+          },
+          {
+            "type": "link",
+            "addDate": 1625639648000,
+            "title": "Hutool — 🍬A set of tools that keep Java sweet.",
+            "icon": "https://logo.clearbit.com/hutool.cn",
+            "url": "https://hutool.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1630993839000,
+            "title": "Smart Java thread dump analyzer - thread dump analysis in seconds",
+            "icon": "https://logo.clearbit.com/fastthread.io",
+            "url": "https://fastthread.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1642058326146,
+            "title": "NGINXConfig | DigitalOcean",
+            "icon": "https://logo.clearbit.com/www.digitalocean.com",
+            "url": "https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN"
+          },
+          {
+            "type": "link",
+            "addDate": 1649397612138,
+            "title": "Excalidraw",
+            "icon": "https://logo.clearbit.com/excalidraw.com",
+            "url": "https://excalidraw.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1627475176000,
+            "title": "Universal JVM GC analyzer - Java Garbage collection log analysis made easy",
+            "icon": "https://logo.clearbit.com/gceasy.io",
+            "url": "https://gceasy.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1652411009918,
+            "title": "文字转字符",
+            "icon": "https://logo.clearbit.com/patorjk.com",
+            "url": "http://patorjk.com/software/taag/#p=display&f=Babyface%20Lame&t=Harrison"
+          },
+          {
+            "type": "link",
+            "addDate": 1652411490380,
+            "title": "字符画生成工具",
+            "icon": "https://logo.clearbit.com/ailitonia.com",
+            "url": "https://ailitonia.com/archives/%E5%AD%97%E7%AC%A6%E7%94%BB%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7/"
+          },
+          {
+            "type": "link",
+            "addDate": 1655570807950,
+            "title": "阿里云",
+            "icon": "https://logo.clearbit.com/ecs.console.aliyun.com",
+            "url": "https://ecs.console.aliyun.com/#/server/region/cn-hangzhou"
+          },
+          {
+            "type": "link",
+            "addDate": 1682066997015,
+            "title": "AI工具集导航 | 500+ AI工具导航大全，国内外AI工具集合网站",
+            "icon": "https://logo.clearbit.com/ai-bot.cn",
+            "url": "https://ai-bot.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1698737710080,
+            "title": "mac2020-2023激活教程",
+            "icon": "https://logo.clearbit.com/www.yuque.com",
+            "url": "https://www.yuque.com/zhetiankeji/kh44yy/ikhbi04e2ml0zgtg"
+          },
+          {
+            "type": "link",
+            "addDate": 1704953373281,
+            "title": "SQL血缘解析",
+            "icon": "https://logo.clearbit.com/sqlflow.gudusoft.com",
+            "url": "https://sqlflow.gudusoft.com/#/"
+          },
+          {
+            "type": "link",
+            "addDate": 1717499956049,
+            "title": "发现导航 - 精选实用导航网站",
+            "icon": "https://logo.clearbit.com/nav3.cn",
+            "url": "https://nav3.cn/#/super?page=0&id=0&_=1717499951695"
+          },
+          {
+            "type": "link",
+            "addDate": 1718712828352,
+            "title": "IT Tools - 为方便开发人员提供的在线工具",
+            "icon": "https://logo.clearbit.com/www.ittools.top",
+            "url": "https://www.ittools.top/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1640257438414,
+    "title": "其他书签",
+    "children": [
+      {
+        "type": "link",
+        "addDate": 1714473931525,
+        "title": "GBA游戏全集下载-GBA英文游戏下载-GBA日文游戏下载 | OldmanEmu",
+        "icon": "https://logo.clearbit.com/www.oldmantvg.net",
+        "url": "https://www.oldmantvg.net/%E6%8E%8C%E6%9C%BA%E6%B8%B8%E6%88%8F/gba/gba%E5%AE%98%E6%96%B9%E6%B8%B8%E6%88%8F%E5%85%A8%E9%9B%86"
+      },
+      {
+        "type": "link",
+        "addDate": 1714473961487,
+        "title": "GBA游戏全集下载-GBA英文游戏下载-GBA日文游戏下载 | OldmanEmu",
+        "icon": "https://logo.clearbit.com/www.oldmantvg.net",
+        "url": "https://www.oldmantvg.net/%e6%8e%8c%e6%9c%ba%e6%b8%b8%e6%88%8f/gba/gba%e5%ae%98%e6%96%b9%e6%b8%b8%e6%88%8f%e5%85%a8%e9%9b%86"
+      }
+    ]
+  }
+]
